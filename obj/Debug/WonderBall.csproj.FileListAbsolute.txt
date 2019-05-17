@@ -1,0 +1,6 @@
+C:\Users\Артем\Desktop\ConsoleApp7\bin\Debug\WonderBall.exe.config
+C:\Users\Артем\Desktop\ConsoleApp7\bin\Debug\WonderBall.exe
+C:\Users\Артем\Desktop\ConsoleApp7\bin\Debug\WonderBall.pdb
+C:\Users\Артем\Desktop\ConsoleApp7\obj\Debug\WonderBall.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\ConsoleApp7\obj\Debug\WonderBall.exe
+C:\Users\Артем\Desktop\ConsoleApp7\obj\Debug\WonderBall.pdb

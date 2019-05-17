@@ -1,0 +1,20 @@
+C:\Users\Артем\Desktop\WonderBall\bin\Debug\WonderBall.exe.config
+C:\Users\Артем\Desktop\WonderBall\bin\Debug\WonderBall.exe
+C:\Users\Артем\Desktop\WonderBall\bin\Debug\WonderBall.pdb
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderGAME.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderGAME.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderBall.exe
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderBall.pdb
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderGame.Minecraft.resources
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderGAME.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\WonderBall\obj\Debug\WonderGame.MenuForm.resources
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\bin\Debug\WonderBall.exe.config
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\bin\Debug\WonderBall.exe
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\bin\Debug\WonderBall.pdb
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderGAME.csprojAssemblyReference.cache
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderGame.MenuForm.resources
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderGame.Minecraft.resources
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderGAME.csproj.GenerateResource.cache
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderGAME.csproj.CoreCompileInputs.cache
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderBall.exe
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\obj\Debug\WonderBall.pdb

@@ -1,0 +1,40 @@
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\BallTests.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\BallTests.pdb
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\WonderBall.exe
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\WonderBall.pdb
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\WonderBall.exe.config
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\obj\Debug\BallTests.csprojAssemblyReference.cache
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\obj\Debug\BallTests.csproj.CoreCompileInputs.cache
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\obj\Debug\BallTests.csproj.CopyComplete
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\obj\Debug\BallTests.dll
+C:\Users\JadeBunny\Desktop\CSHA\WonderBall-master\BallTests\obj\Debug\BallTests.pdb
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\BallTests.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\BallTests.pdb
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\WonderBall.exe
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\WonderBall.pdb
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\WonderBall.exe.config
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\obj\Debug\BallTests.csprojAssemblyReference.cache
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\obj\Debug\BallTests.csproj.CoreCompileInputs.cache
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\obj\Debug\BallTests.csproj.CopyComplete
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\obj\Debug\BallTests.dll
+C:\Users\AkvaV\OneDrive\Рабочий стол\WonderBall-master\BallTests\obj\Debug\BallTests.pdb
